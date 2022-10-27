@@ -14,8 +14,6 @@ Eduardo</a></h1>
 
 - 🌎 Born and raised in Brazil.
 
-- ⚽ Football lover. (Flamengo é isso)
-
 <br/>
 
 ## 👜 Work stuff
