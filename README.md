@@ -14,6 +14,8 @@ Eduardo</a></h1>
 
 - 🌎 Born and raised in Brazil.
 
+- 🧑‍💼 Currently working at Algar Telecom
+
 <br/>
 
 ## 👜 Work stuff
