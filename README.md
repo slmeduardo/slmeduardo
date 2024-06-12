@@ -8,7 +8,7 @@ Eduardo</a></h1>
   <img align="right" top="500" height="210.9375px" width="375" alt="GIF" src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e479xrbz03jjm9l5he706wjg3h89pmlq51fznokutgc&rid=giphy.gif&ct=g">
 </a>
 
-- 👦 I’m 19y/o.
+- 👦 I’m 20y/o.
 
 - 🧑‍💻 Constantly learning. 
 
