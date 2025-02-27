@@ -19,7 +19,7 @@ Eduardo</a></h1>
 <br/>
 
 ## 👜 Work stuff
-- 🖥️ I've been working with software development since 2019 and I still don't know what I'm doing.
+- 🖥️ I've been working with software development since 2019.
 
 - 🧠 Experience with: JavaScript, ReactJS, NextJS, TailWindCSS, HTLM, CSS, TypeScript.
 
