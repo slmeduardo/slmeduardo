@@ -8,20 +8,20 @@ Eduardo</a></h1>
   <img align="right" top="500" height="210.9375px" width="375" alt="GIF" src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e479xrbz03jjm9l5he706wjg3h89pmlq51fznokutgc&rid=giphy.gif&ct=g">
 </a>
 
-- 👦 I’m 20y/o.
+- 👦 I’m 21y/o.
 
 - 🧑‍💻 Constantly learning. 
 
 - 🌎 Born and raised in Brazil.
 
-- 🧑‍💼 Currently working at Algar Telecom
+- 🧑‍💼 Currently working at Pro Apps
 
 <br/>
 
 ## 👜 Work stuff
 - 🖥️ I've been working with software development since 2019.
 
-- 🧠 Experience with: JavaScript, ReactJS, NextJS, TailWindCSS, HTLM, CSS, TypeScript.
+- 🧠 Experience with: JavaScript | TypeScript | MSSQL | Node | React | Vue | Redux | jQuery | Vite | Git | Firebase | TailwindCSS | NextJs | Styled Components | Microservices | Distributed Systems | Frontend | Backend | Full-Stack | Inglês, Português
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
